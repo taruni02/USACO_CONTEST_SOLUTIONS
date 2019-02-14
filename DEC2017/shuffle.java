@@ -1,7 +1,4 @@
-/*ID: sritaru1
-LANG: JAVA
-TASK: shuffle
-*/
+
 import java.util.*;
 import java.io.*;
 public class shuffle{
